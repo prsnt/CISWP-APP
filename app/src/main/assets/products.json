@@ -1,0 +1,1091 @@
+{
+  "success": 1,
+  "message": "10 records found",
+  "error": null,
+  "data": [
+    {
+      "product_id": 1,
+      "name": "test",
+      "website": "https://www.3m.com/3M/en_US/worker-health-safety-us/3m-ppe-training/virtual-reality/#",
+      "description": "Trainees will learn how to inspect a harness and be challenged to identify four defects in two minutes. Play through the VR scenario multiple times to build and reinforce knowledge by encountering different defects each time.",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": "10 min",
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        },
+        {
+          "cat_id": 2,
+          "cat_name": "Industrial"
+        },
+        {
+          "cat_id": 3,
+          "cat_name": "Motive Power"
+        },
+        {
+          "cat_id": 4,
+          "cat_name": "Service"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 1,
+          "topic_area": "Fall Safety"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 1,
+          "developer_name": "3M"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 1,
+          "elt_type_name": "VR headset (w/ controllers)"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 1,
+          "country_name": "USA"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": null,
+          "occupation_name": null
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 1,
+          "task_name": "Fall arrest"
+        },
+        {
+          "task_id": 2,
+          "task_name": "inspect harness"
+        },
+        {
+          "task_id": 3,
+          "task_name": "identify defects"
+        },
+        {
+          "task_id": 4,
+          "task_name": ""
+        },
+        {
+          "task_id": 233,
+          "task_name": "fall arrest"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 1,
+          "osh_topic_name": "Ladders, scaffolds, and platforms"
+        },
+        {
+          "osh_topic_id": 4,
+          "osh_topic_name": "ladders, scaffolds, and platforms"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 1,
+          "hardware_name": "Meta Quest 2"
+        },
+        {
+          "hardware_id": 2,
+          "hardware_name": "HTC VIVE"
+        },
+        {
+          "hardware_id": 44,
+          "hardware_name": "HTC Vive"
+        }
+      ]
+    },
+    {
+      "product_id": 2,
+      "name": "3M Fundamentals of Fall Protection VR Pro",
+      "website": "https://www.3m.com/3M/en_US/worker-health-safety-us/3m-ppe-training/virtual-reality/#",
+      "description": "Step into the Fundamentals of Fall Protection: a 4-part, high engagement Virtual Reality simulation from 3M, designed to help maximize safety training efficiency and effectiveness without breaking your budget.",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": "40 min",
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        },
+        {
+          "cat_id": 2,
+          "cat_name": "Industrial"
+        },
+        {
+          "cat_id": 3,
+          "cat_name": "Motive Power"
+        },
+        {
+          "cat_id": 4,
+          "cat_name": "Service"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 1,
+          "topic_area": "Fall Safety"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 1,
+          "developer_name": "3M"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 1,
+          "elt_type_name": "VR headset (w/ controllers)"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 1,
+          "country_name": "USA"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": null,
+          "occupation_name": null
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 1,
+          "task_name": "Fall arrest"
+        },
+        {
+          "task_id": 233,
+          "task_name": "fall arrest"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 1,
+          "osh_topic_name": "Ladders, scaffolds, and platforms"
+        },
+        {
+          "osh_topic_id": 4,
+          "osh_topic_name": "ladders, scaffolds, and platforms"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 1,
+          "hardware_name": "Meta Quest 2"
+        },
+        {
+          "hardware_id": 2,
+          "hardware_name": "HTC VIVE"
+        },
+        {
+          "hardware_id": 44,
+          "hardware_name": "HTC Vive"
+        }
+      ]
+    },
+    {
+      "product_id": 3,
+      "name": "3M Welding Demonstration",
+      "website": "https://www.3m.com/3M/en_US/worker-health-safety-us/3m-ppe-training/virtual-reality/#",
+      "description": "Trainees will be able to experience the difference between welding with a passive helment and an auto-darkening helment in this gamified interactive experience.",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": "5 min",
+      "category": [
+        {
+          "cat_id": 2,
+          "cat_name": "Industrial"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 2,
+          "topic_area": "Welding"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 1,
+          "developer_name": "3M"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 1,
+          "elt_type_name": "VR headset (w/ controllers)"
+        },
+        {
+          "elt_type_id": 2,
+          "elt_type_name": "Smartphone +VR goggles"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 1,
+          "country_name": "USA"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": 2,
+          "occupation_name": "Welder"
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 5,
+          "task_name": "PPE"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 2,
+          "osh_topic_name": "PPE"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 2,
+          "hardware_name": "HTC VIVE"
+        },
+        {
+          "hardware_id": 3,
+          "hardware_name": "Oculus Go"
+        },
+        {
+          "hardware_id": 4,
+          "hardware_name": "Samsung Gear"
+        },
+        {
+          "hardware_id": 44,
+          "hardware_name": "HTC Vive"
+        }
+      ]
+    },
+    {
+      "product_id": 4,
+      "name": "3M Working at Heights Awareness",
+      "website": "https://www.3m.com/3M/en_US/worker-health-safety-us/3m-ppe-training/virtual-reality/#",
+      "description": "3M Working at Heights Awareness",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": "10 min",
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        },
+        {
+          "cat_id": 2,
+          "cat_name": "Industrial"
+        },
+        {
+          "cat_id": 3,
+          "cat_name": "Motive Power"
+        },
+        {
+          "cat_id": 4,
+          "cat_name": "Service"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 1,
+          "topic_area": "Fall Safety"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 1,
+          "developer_name": "3M"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 1,
+          "elt_type_name": "VR headset (w/ controllers)"
+        },
+        {
+          "elt_type_id": 2,
+          "elt_type_name": "Smartphone +VR goggles"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 1,
+          "country_name": "USA"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": null,
+          "occupation_name": null
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 1,
+          "task_name": "Fall arrest"
+        },
+        {
+          "task_id": 4,
+          "task_name": ""
+        },
+        {
+          "task_id": 6,
+          "task_name": "self-retracting lifelines"
+        },
+        {
+          "task_id": 7,
+          "task_name": "protect tools from falling at height"
+        },
+        {
+          "task_id": 233,
+          "task_name": "fall arrest"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 1,
+          "osh_topic_name": "Ladders, scaffolds, and platforms"
+        },
+        {
+          "osh_topic_id": 4,
+          "osh_topic_name": "ladders, scaffolds, and platforms"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 1,
+          "hardware_name": "Meta Quest 2"
+        },
+        {
+          "hardware_id": 2,
+          "hardware_name": "HTC VIVE"
+        },
+        {
+          "hardware_id": 3,
+          "hardware_name": "Oculus Go"
+        },
+        {
+          "hardware_id": 4,
+          "hardware_name": "Samsung Gear"
+        },
+        {
+          "hardware_id": 44,
+          "hardware_name": "HTC Vive"
+        }
+      ]
+    },
+    {
+      "product_id": 5,
+      "name": "Articulated Dump Truck",
+      "website": "https://acreos.eu/en/building-and-public-works/articulated-dump-truck/#",
+      "description": "Through various series of exercises, the trainees will learn the articulated hauler commands, build their hand-eye coordination and develop their operating skills.\n\nThrough learning modules, you can: Understand the hauler size in order to operate it efficiently and learn how to use the articulation maneuvers; Acquire the required skills to operate the hauler while using the retarders and brakes; Learn how to manage speed, gear ratios to use and differential locks, according to terrain conditions; Optimize the machine moves",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": null,
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 3,
+          "topic_area": "Heavy Machinery Operations"
+        },
+        {
+          "topic_id": 4,
+          "topic_area": "Dumper Truck"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 2,
+          "developer_name": "Acreos"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 3,
+          "elt_type_name": "Simulator System"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 2,
+          "country_name": "France"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        },
+        {
+          "language_id": 2,
+          "language_name": "French"
+        },
+        {
+          "language_id": 3,
+          "language_name": "Spanish"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": 3,
+          "occupation_name": "Heavy Equipment Operator"
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 8,
+          "task_name": "machinery operations"
+        },
+        {
+          "task_id": 9,
+          "task_name": "acticulate dump truck"
+        },
+        {
+          "task_id": 10,
+          "task_name": "retarders and brakes"
+        },
+        {
+          "task_id": 11,
+          "task_name": "manage speed, gear ratios, and differential locks"
+        },
+        {
+          "task_id": 70,
+          "task_name": "Machinery operations"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 3,
+          "osh_topic_name": "safe work processes"
+        },
+        {
+          "osh_topic_id": 6,
+          "osh_topic_name": "Safe work processes"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 5,
+          "hardware_name": "Delta 1B"
+        },
+        {
+          "hardware_id": 6,
+          "hardware_name": "Delta 5B"
+        },
+        {
+          "hardware_id": 7,
+          "hardware_name": "three-pedal with differential locks button"
+        },
+        {
+          "hardware_id": 8,
+          "hardware_name": "dashboard with steering wheel"
+        }
+      ]
+    },
+    {
+      "product_id": 6,
+      "name": "Backhoe Loader",
+      "website": "https://acreos.eu/en/building-and-public-works/backhoe-loader/#",
+      "description": "Through various series of exercises, the trainees will learn the backhoe loader commands, build their hand-eye coordination and develop their operating skills.\n\nThrough learning modules, you can: Provide a combined use of bucket backhoe commands as the mastering the commands of the loader (which is not articulated); Understand the template of the machine, the management of the stabilizer legs, the correct use and the good positioning of the buckets; Use a various software and comprehensive program to learn how to operate this machine",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": null,
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 3,
+          "topic_area": "Heavy Machinery Operations"
+        },
+        {
+          "topic_id": 5,
+          "topic_area": "Backhoe Loader"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 2,
+          "developer_name": "Acreos"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 3,
+          "elt_type_name": "Simulator System"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 2,
+          "country_name": "France"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        },
+        {
+          "language_id": 2,
+          "language_name": "French"
+        },
+        {
+          "language_id": 3,
+          "language_name": "Spanish"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": 4,
+          "occupation_name": "Heavy Equipment Operator - Tractor Loader Backhoe"
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 8,
+          "task_name": "machinery operations"
+        },
+        {
+          "task_id": 12,
+          "task_name": "backhoe loader"
+        },
+        {
+          "task_id": 13,
+          "task_name": "management of the stabilizer legs"
+        },
+        {
+          "task_id": 14,
+          "task_name": "correct use and good positioning of the buckets"
+        },
+        {
+          "task_id": 70,
+          "task_name": "Machinery operations"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 3,
+          "osh_topic_name": "safe work processes"
+        },
+        {
+          "osh_topic_id": 6,
+          "osh_topic_name": "Safe work processes"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 5,
+          "hardware_name": "Delta 1B"
+        },
+        {
+          "hardware_id": 10,
+          "hardware_name": "two control units"
+        },
+        {
+          "hardware_id": 11,
+          "hardware_name": "pedals"
+        },
+        {
+          "hardware_id": 12,
+          "hardware_name": "dashboard"
+        }
+      ]
+    },
+    {
+      "product_id": 7,
+      "name": "Bulldozer",
+      "website": "https://acreos.eu/en/building-and-public-works/bulldozer/#",
+      "description": "Through various series of exercises, the trainees will learn the bulldozer commands, build their hand-eye coordination and develop their operating skills.\n\nThrough learning modules, you can: Develop skills on more advanced bulldozer operations, including coordinating blade positioning while moving forward and push soil, or backward; Learn how to climb onto a lowboy trailer, then position the bulldozer it in order to get it ready for transport; Learn how to level a site on a flat or uneven land",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": null,
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 3,
+          "topic_area": "Heavy Machinery Operations"
+        },
+        {
+          "topic_id": 6,
+          "topic_area": "Dozer"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 2,
+          "developer_name": "Acreos"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 3,
+          "elt_type_name": "Simulator System"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 2,
+          "country_name": "France"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        },
+        {
+          "language_id": 2,
+          "language_name": "French"
+        },
+        {
+          "language_id": 3,
+          "language_name": "Spanish"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": 5,
+          "occupation_name": "Heavy Equipment Operator - Dozer"
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 8,
+          "task_name": "machinery operations"
+        },
+        {
+          "task_id": 15,
+          "task_name": "bulldozer"
+        },
+        {
+          "task_id": 16,
+          "task_name": "coordinating blade positioning while moving forward and push soil, or backward"
+        },
+        {
+          "task_id": 17,
+          "task_name": "climb onto a lowboy trailer, then position the bulldozer to get it ready for transport"
+        },
+        {
+          "task_id": 70,
+          "task_name": "Machinery operations"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 3,
+          "osh_topic_name": "safe work processes"
+        },
+        {
+          "osh_topic_id": 6,
+          "osh_topic_name": "Safe work processes"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 5,
+          "hardware_name": "Delta 1B"
+        },
+        {
+          "hardware_id": 13,
+          "hardware_name": "Two Control units, one pedal and the simulation software usable from the touch screen"
+        }
+      ]
+    },
+    {
+      "product_id": 8,
+      "name": "Crawler Crane",
+      "website": "https://acreos.eu/en/handling-and-lifting/crawler-crane/#",
+      "description": "Through various series of exercises, the trainees will learn the crawler crane commands, build their hand-eye coordination and develop their operating skills.\n\nThrough learning modules, you can: Allow a combined and simultaneous use of the crawler crane controls; Control the several swings, the impact of working height variations and follow complex trajectories; Manage winch speeds based on loads",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": null,
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 3,
+          "topic_area": "Heavy Machinery Operations"
+        },
+        {
+          "topic_id": 7,
+          "topic_area": "Crane"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 2,
+          "developer_name": "Acreos"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 3,
+          "elt_type_name": "Simulator System"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 2,
+          "country_name": "France"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        },
+        {
+          "language_id": 2,
+          "language_name": "French"
+        },
+        {
+          "language_id": 3,
+          "language_name": "Spanish"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": 6,
+          "occupation_name": "Hoisting Engineer - Mobile Crane Operator"
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 8,
+          "task_name": "machinery operations"
+        },
+        {
+          "task_id": 19,
+          "task_name": "crawler crane"
+        },
+        {
+          "task_id": 20,
+          "task_name": "manage winch sppeds based on loads"
+        },
+        {
+          "task_id": 21,
+          "task_name": "control swings"
+        },
+        {
+          "task_id": 70,
+          "task_name": "Machinery operations"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 3,
+          "osh_topic_name": "safe work processes"
+        },
+        {
+          "osh_topic_id": 6,
+          "osh_topic_name": "Safe work processes"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 5,
+          "hardware_name": "Delta 1B"
+        },
+        {
+          "hardware_id": 10,
+          "hardware_name": "two control units"
+        }
+      ]
+    },
+    {
+      "product_id": 9,
+      "name": "Dumper",
+      "website": "https://acreos.eu/en/mining/dumper/#pll_switcher",
+      "description": "Through various series of exercises, the trainees will learn the dumper commands, build their hand-eye coordination and develop their operating skills.\n\nThrough learning modules, you can: Grasp the size of this truck; Understand its functioning will lead to the appropriate use of retarders, brake and gear position to avoid overspeed; Learn how to position the dump truck as well as how to use the specific controls of this machine",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": null,
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 3,
+          "topic_area": "Heavy Machinery Operations"
+        },
+        {
+          "topic_id": 4,
+          "topic_area": "Dumper Truck"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 2,
+          "developer_name": "Acreos"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 3,
+          "elt_type_name": "Simulator System"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 2,
+          "country_name": "France"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        },
+        {
+          "language_id": 2,
+          "language_name": "French"
+        },
+        {
+          "language_id": 3,
+          "language_name": "Spanish"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": 3,
+          "occupation_name": "Heavy Equipment Operator"
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 8,
+          "task_name": "machinery operations"
+        },
+        {
+          "task_id": 24,
+          "task_name": "dumper"
+        },
+        {
+          "task_id": 25,
+          "task_name": "use of retarders, brakes, and gear position to avoid overspeed"
+        },
+        {
+          "task_id": 26,
+          "task_name": "position dumper"
+        },
+        {
+          "task_id": 70,
+          "task_name": "Machinery operations"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 3,
+          "osh_topic_name": "safe work processes"
+        },
+        {
+          "osh_topic_id": 6,
+          "osh_topic_name": "Safe work processes"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 5,
+          "hardware_name": "Delta 1B"
+        },
+        {
+          "hardware_id": 6,
+          "hardware_name": "Delta 5B"
+        },
+        {
+          "hardware_id": 11,
+          "hardware_name": "pedals"
+        },
+        {
+          "hardware_id": 14,
+          "hardware_name": "right-hand contol unit"
+        }
+      ]
+    },
+    {
+      "product_id": 10,
+      "name": "Excavator",
+      "website": "https://acreos.eu/en/building-and-public-works/excavator/#",
+      "description": "Through various series of exercises, the trainees will learn the excavator commands, build their hand-eye coordination and develop their operating skills.\n\nThrough learning modules, you can: Learn to position the bucket, the tracks and the machine when digging a trench or loading a truck; Learn how to climb onto a lowboy trailer; Position the excavator in order to get it ready for transport",
+      "payment_type": "Paid",
+      "Date_of_Release_and_Version_Number": null,
+      "Certification_accreditation_for_completion": null,
+      "Duration_min": null,
+      "category": [
+        {
+          "cat_id": 1,
+          "cat_name": "Construction"
+        }
+      ],
+      "topic": [
+        {
+          "topic_id": 3,
+          "topic_area": "Heavy Machinery Operations"
+        },
+        {
+          "topic_id": 8,
+          "topic_area": "Excavator"
+        }
+      ],
+      "developers": [
+        {
+          "developer_id": 2,
+          "developer_name": "Acreos"
+        }
+      ],
+      "type_of_elt": [
+        {
+          "elt_type_id": 3,
+          "elt_type_name": "Simulator System"
+        }
+      ],
+      "country": [
+        {
+          "country_id": 2,
+          "country_name": "France"
+        }
+      ],
+      "language": [
+        {
+          "language_id": 1,
+          "language_name": "English"
+        },
+        {
+          "language_id": 2,
+          "language_name": "French"
+        },
+        {
+          "language_id": 3,
+          "language_name": "Spanish"
+        }
+      ],
+      "occupation": [
+        {
+          "occupation_id": 7,
+          "occupation_name": "Heavy Equipment Operator - Excavator"
+        }
+      ],
+      "tasks": [
+        {
+          "task_id": 8,
+          "task_name": "machinery operations"
+        },
+        {
+          "task_id": 27,
+          "task_name": "excavator"
+        },
+        {
+          "task_id": 28,
+          "task_name": "position the bucket, the tracks and the machine when digging a trench or loading a truck"
+        },
+        {
+          "task_id": 29,
+          "task_name": "climb onto a lowboy trailer"
+        },
+        {
+          "task_id": 70,
+          "task_name": "Machinery operations"
+        }
+      ],
+      "osh_topics": [
+        {
+          "osh_topic_id": 3,
+          "osh_topic_name": "safe work processes"
+        },
+        {
+          "osh_topic_id": 6,
+          "osh_topic_name": "Safe work processes"
+        }
+      ],
+      "hardware": [
+        {
+          "hardware_id": 5,
+          "hardware_name": "Delta 1B"
+        },
+        {
+          "hardware_id": 6,
+          "hardware_name": "Delta 5B"
+        },
+        {
+          "hardware_id": 10,
+          "hardware_name": "two control units"
+        },
+        {
+          "hardware_id": 15,
+          "hardware_name": "one pedal"
+        }
+      ]
+    }
+  ]
+}

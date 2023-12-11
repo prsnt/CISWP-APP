@@ -1,0 +1,947 @@
+{
+  "success": 1,
+  "message": "Records Fetched",
+  "error": null,
+  "category": [
+    {
+      "cat_id": 1,
+      "cat_name": "Construction",
+      "cat_image": "ic_construction"
+    },
+    {
+      "cat_id": 2,
+      "cat_name": "Industrial",
+      "cat_image": "ic_industrial"
+    },
+    {
+      "cat_id": 3,
+      "cat_name": "Motive Power",
+      "cat_image": "ic_motive_power"
+    },
+    {
+      "cat_id": 4,
+      "cat_name": "Service",
+      "cat_image": "ic_service"
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": 1,
+      "topic_area": "Fall Safety"
+    },
+    {
+      "topic_id": 2,
+      "topic_area": "Welding"
+    },
+    {
+      "topic_id": 3,
+      "topic_area": "Heavy Machinery Operations"
+    },
+    {
+      "topic_id": 4,
+      "topic_area": "Dumper Truck"
+    },
+    {
+      "topic_id": 5,
+      "topic_area": "Backhoe Loader"
+    },
+    {
+      "topic_id": 6,
+      "topic_area": "Dozer"
+    },
+    {
+      "topic_id": 7,
+      "topic_area": "Crane"
+    },
+    {
+      "topic_id": 8,
+      "topic_area": "Excavator"
+    },
+    {
+      "topic_id": 9,
+      "topic_area": "Tool/equipment Operation"
+    },
+    {
+      "topic_id": 10,
+      "topic_area": "Head Saw"
+    },
+    {
+      "topic_id": 11,
+      "topic_area": "Trucking"
+    },
+    {
+      "topic_id": 12,
+      "topic_area": "Milling Machine"
+    },
+    {
+      "topic_id": 13,
+      "topic_area": "Wheel Loader"
+    },
+    {
+      "topic_id": 14,
+      "topic_area": "Motor Grader"
+    },
+    {
+      "topic_id": 15,
+      "topic_area": "Straddle Carrier"
+    },
+    {
+      "topic_id": 16,
+      "topic_area": "Telehandler"
+    },
+    {
+      "topic_id": 17,
+      "topic_area": "Pre-trip Inspection"
+    },
+    {
+      "topic_id": 18,
+      "topic_area": "Heating, Ventilation, and Air Conditioning (HVAC)"
+    },
+    {
+      "topic_id": 19,
+      "topic_area": "Hookup manifold gauge"
+    },
+    {
+      "topic_id": 20,
+      "topic_area": "Traffic Control"
+    },
+    {
+      "topic_id": 21,
+      "topic_area": "General Safety (Construction)"
+    },
+    {
+      "topic_id": 22,
+      "topic_area": "General Safety (Mining)"
+    },
+    {
+      "topic_id": 23,
+      "topic_area": "Confined Spaces"
+    },
+    {
+      "topic_id": 24,
+      "topic_area": "Framing"
+    },
+    {
+      "topic_id": 25,
+      "topic_area": "Electrical"
+    },
+    {
+      "topic_id": 26,
+      "topic_area": "Feeder Protection Relay"
+    },
+    {
+      "topic_id": 27,
+      "topic_area": "Substation Maintenance"
+    },
+    {
+      "topic_id": 28,
+      "topic_area": "General Safety"
+    },
+    {
+      "topic_id": 29,
+      "topic_area": "Transformer Oil Sampling"
+    },
+    {
+      "topic_id": 30,
+      "topic_area": "Utilities"
+    },
+    {
+      "topic_id": 31,
+      "topic_area": "Gas Leak Survey"
+    },
+    {
+      "topic_id": 32,
+      "topic_area": "Permit to Work"
+    },
+    {
+      "topic_id": 33,
+      "topic_area": "PPE"
+    },
+    {
+      "topic_id": 34,
+      "topic_area": "Emergency Preparedness"
+    },
+    {
+      "topic_id": 35,
+      "topic_area": "Railway"
+    },
+    {
+      "topic_id": 36,
+      "topic_area": "Air Brake Test"
+    },
+    {
+      "topic_id": 37,
+      "topic_area": "Ventilation (locomotive)"
+    },
+    {
+      "topic_id": 38,
+      "topic_area": "Blue Signal Protection"
+    },
+    {
+      "topic_id": 39,
+      "topic_area": "Daily Inspection"
+    },
+    {
+      "topic_id": 40,
+      "topic_area": "Pre-Trip Inspection"
+    },
+    {
+      "topic_id": 41,
+      "topic_area": "Hazard Awareness (Construction)"
+    },
+    {
+      "topic_id": 42,
+      "topic_area": "Rigging"
+    },
+    {
+      "topic_id": 43,
+      "topic_area": "Trench Safety"
+    },
+    {
+      "topic_id": 44,
+      "topic_area": "Autonomous and Remote Equipment"
+    },
+    {
+      "topic_id": 45,
+      "topic_area": "MEWP"
+    },
+    {
+      "topic_id": 46,
+      "topic_area": "Maintenance and Repair"
+    },
+    {
+      "topic_id": 47,
+      "topic_area": "Snowplow"
+    },
+    {
+      "topic_id": 48,
+      "topic_area": "General Safety (Electrical)"
+    },
+    {
+      "topic_id": 49,
+      "topic_area": "Poultry Cutting"
+    },
+    {
+      "topic_id": 50,
+      "topic_area": "Production line"
+    },
+    {
+      "topic_id": 51,
+      "topic_area": "Refrigerants"
+    },
+    {
+      "topic_id": 52,
+      "topic_area": "Sawmill"
+    },
+    {
+      "topic_id": 53,
+      "topic_area": "table saw, band saw"
+    },
+    {
+      "topic_id": 54,
+      "topic_area": "jointer"
+    },
+    {
+      "topic_id": 55,
+      "topic_area": "router"
+    },
+    {
+      "topic_id": 56,
+      "topic_area": "Painting"
+    },
+    {
+      "topic_id": 57,
+      "topic_area": "Lockout/Tagout"
+    },
+    {
+      "topic_id": 58,
+      "topic_area": "Car"
+    },
+    {
+      "topic_id": 59,
+      "topic_area": "General Safety (Industrial)"
+    },
+    {
+      "topic_id": 60,
+      "topic_area": "Pilot Lighting"
+    },
+    {
+      "topic_id": 61,
+      "topic_area": "Hazard Awareness (Industrial)"
+    },
+    {
+      "topic_id": 62,
+      "topic_area": "Fire Safety"
+    },
+    {
+      "topic_id": 63,
+      "topic_area": "Lifting tools"
+    },
+    {
+      "topic_id": 64,
+      "topic_area": "Appliances"
+    },
+    {
+      "topic_id": 65,
+      "topic_area": "Facility Locating & Marking"
+    },
+    {
+      "topic_id": 66,
+      "topic_area": "First Aid"
+    },
+    {
+      "topic_id": 67,
+      "topic_area": "Gas Handling"
+    },
+    {
+      "topic_id": 68,
+      "topic_area": "Inside Leak Investigation"
+    },
+    {
+      "topic_id": 69,
+      "topic_area": "Inside Meter Inspection"
+    },
+    {
+      "topic_id": 70,
+      "topic_area": "Forklift"
+    },
+    {
+      "topic_id": 71,
+      "topic_area": "Natural Gas Leak"
+    },
+    {
+      "topic_id": 72,
+      "topic_area": "Outside Leak Investigation"
+    },
+    {
+      "topic_id": 73,
+      "topic_area": "Pipeline Patrolling"
+    },
+    {
+      "topic_id": 74,
+      "topic_area": "Management"
+    },
+    {
+      "topic_id": 75,
+      "topic_area": "Rebar Tying"
+    },
+    {
+      "topic_id": 76,
+      "topic_area": "Dill Jumbo"
+    },
+    {
+      "topic_id": 77,
+      "topic_area": "Rope Shovel"
+    },
+    {
+      "topic_id": 78,
+      "topic_area": "Hazard Awareness"
+    },
+    {
+      "topic_id": 79,
+      "topic_area": "Forwarder"
+    },
+    {
+      "topic_id": 80,
+      "topic_area": "Harvester"
+    },
+    {
+      "topic_id": 81,
+      "topic_area": "Mining Truck"
+    },
+    {
+      "topic_id": 82,
+      "topic_area": "Off Highway Truck"
+    },
+    {
+      "topic_id": 83,
+      "topic_area": "Skid Steer Loader"
+    },
+    {
+      "topic_id": 84,
+      "topic_area": "Wheeled Material Handler"
+    },
+    {
+      "topic_id": 85,
+      "topic_area": "Manual Materials Handling"
+    },
+    {
+      "topic_id": 86,
+      "topic_area": "Blueprint Reading"
+    },
+    {
+      "topic_id": 87,
+      "topic_area": "Mechatronics"
+    },
+    {
+      "topic_id": 88,
+      "topic_area": "Paint Robot Troubleshooting"
+    },
+    {
+      "topic_id": 89,
+      "topic_area": "Precision Measurement"
+    },
+    {
+      "topic_id": 90,
+      "topic_area": "Lathe"
+    },
+    {
+      "topic_id": 91,
+      "topic_area": "Various topics"
+    },
+    {
+      "topic_id": 92,
+      "topic_area": "Driving Safety"
+    },
+    {
+      "topic_id": 93,
+      "topic_area": "IS Machine"
+    },
+    {
+      "topic_id": 94,
+      "topic_area": "Hydraulics"
+    },
+    {
+      "topic_id": 95,
+      "topic_area": "Mechanical components"
+    },
+    {
+      "topic_id": 96,
+      "topic_area": "Pneumatics"
+    },
+    {
+      "topic_id": 97,
+      "topic_area": "Industrial Robots"
+    },
+    {
+      "topic_id": 98,
+      "topic_area": "Assemble/Disassemble"
+    },
+    {
+      "topic_id": 99,
+      "topic_area": "Automotive Parts"
+    }
+  ],
+  "developers": [
+    {
+      "developer_id": 1,
+      "developer_name": "3M"
+    },
+    {
+      "developer_id": 2,
+      "developer_name": "Acreos"
+    },
+    {
+      "developer_id": 3,
+      "developer_name": "Humulo Engineering"
+    },
+    {
+      "developer_id": 4,
+      "developer_name": "Advanced Training Systems LLC."
+    },
+    {
+      "developer_id": 5,
+      "developer_name": "Arcadicus"
+    },
+    {
+      "developer_id": 6,
+      "developer_name": "NextWave Safety Solutions, Inc."
+    },
+    {
+      "developer_id": 7,
+      "developer_name": "astragon Entertainment GmbH"
+    },
+    {
+      "developer_id": 8,
+      "developer_name": "Bit Space Development Ltd."
+    },
+    {
+      "developer_id": 9,
+      "developer_name": "FreeRangeXR"
+    },
+    {
+      "developer_id": 10,
+      "developer_name": "Pixaera"
+    },
+    {
+      "developer_id": 11,
+      "developer_name": "PIXO VR"
+    },
+    {
+      "developer_id": 12,
+      "developer_name": "Vectre"
+    },
+    {
+      "developer_id": 13,
+      "developer_name": "CAT"
+    },
+    {
+      "developer_id": 14,
+      "developer_name": "CSE Software Inc."
+    },
+    {
+      "developer_id": 15,
+      "developer_name": "Simformotion"
+    },
+    {
+      "developer_id": 16,
+      "developer_name": "UoI VTD"
+    },
+    {
+      "developer_id": 17,
+      "developer_name": "UW DEOHS CEP"
+    },
+    {
+      "developer_id": 18,
+      "developer_name": "Archvirtual"
+    },
+    {
+      "developer_id": 19,
+      "developer_name": "Construction Ontario"
+    },
+    {
+      "developer_id": 20,
+      "developer_name": "Digital Engineering and Magic"
+    },
+    {
+      "developer_id": 21,
+      "developer_name": "Ditch Witch"
+    },
+    {
+      "developer_id": 22,
+      "developer_name": "Elite VR Training"
+    },
+    {
+      "developer_id": 23,
+      "developer_name": "Energy Safety Canada"
+    },
+    {
+      "developer_id": 24,
+      "developer_name": "Finish Institute of Occupational Health"
+    },
+    {
+      "developer_id": 25,
+      "developer_name": "Flint Systems"
+    },
+    {
+      "developer_id": 26,
+      "developer_name": "Inside Technologia"
+    },
+    {
+      "developer_id": 27,
+      "developer_name": "Simcoach Games"
+    },
+    {
+      "developer_id": 28,
+      "developer_name": "trainPOINT"
+    },
+    {
+      "developer_id": 29,
+      "developer_name": "Oberon Technologies"
+    },
+    {
+      "developer_id": 30,
+      "developer_name": "Groove Jones"
+    },
+    {
+      "developer_id": 31,
+      "developer_name": "IVRY Technologies"
+    },
+    {
+      "developer_id": 32,
+      "developer_name": "Hard Hat VR"
+    },
+    {
+      "developer_id": 33,
+      "developer_name": "Heartwood"
+    },
+    {
+      "developer_id": 34,
+      "developer_name": "Melcher Studios"
+    },
+    {
+      "developer_id": 35,
+      "developer_name": "Virtual Reality Training Solutions"
+    },
+    {
+      "developer_id": 36,
+      "developer_name": "Mimbus"
+    },
+    {
+      "developer_id": 37,
+      "developer_name": "Purdue University"
+    },
+    {
+      "developer_id": 38,
+      "developer_name": "Sentient Computing"
+    },
+    {
+      "developer_id": 39,
+      "developer_name": "Immersive Technologies"
+    },
+    {
+      "developer_id": 40,
+      "developer_name": "Industrial Training International"
+    },
+    {
+      "developer_id": 41,
+      "developer_name": "Serious Labs"
+    },
+    {
+      "developer_id": 42,
+      "developer_name": "JLG"
+    },
+    {
+      "developer_id": 43,
+      "developer_name": "Lennox"
+    },
+    {
+      "developer_id": 44,
+      "developer_name": "Lincoln Electric"
+    },
+    {
+      "developer_id": 45,
+      "developer_name": "VARtech LLC"
+    },
+    {
+      "developer_id": 46,
+      "developer_name": "WorkSafeBC"
+    },
+    {
+      "developer_id": 47,
+      "developer_name": "VRSim, Inc"
+    },
+    {
+      "developer_id": 48,
+      "developer_name": "zSpace"
+    },
+    {
+      "developer_id": 49,
+      "developer_name": "Missing Digit"
+    },
+    {
+      "developer_id": 50,
+      "developer_name": "one bonsai"
+    },
+    {
+      "developer_id": 51,
+      "developer_name": "Norcat"
+    },
+    {
+      "developer_id": 52,
+      "developer_name": "Aviation Virtual"
+    },
+    {
+      "developer_id": 53,
+      "developer_name": "BluWorkz"
+    },
+    {
+      "developer_id": 54,
+      "developer_name": "certifyme.net"
+    },
+    {
+      "developer_id": 55,
+      "developer_name": "Buzzark"
+    },
+    {
+      "developer_id": 56,
+      "developer_name": "ChalkBites"
+    },
+    {
+      "developer_id": 57,
+      "developer_name": "FL-Simulators Inc."
+    },
+    {
+      "developer_id": 58,
+      "developer_name": "Raymond"
+    },
+    {
+      "developer_id": 59,
+      "developer_name": "Realityworks"
+    },
+    {
+      "developer_id": 60,
+      "developer_name": "Red Dot Games"
+    },
+    {
+      "developer_id": 61,
+      "developer_name": "Redlab Engineering"
+    },
+    {
+      "developer_id": 62,
+      "developer_name": "SIMLOG"
+    },
+    {
+      "developer_id": 63,
+      "developer_name": "Streamline Simulations"
+    },
+    {
+      "developer_id": 64,
+      "developer_name": "SimCoach Games"
+    },
+    {
+      "developer_id": 65,
+      "developer_name": "Tecknotrove systems (1) PVT LTD"
+    },
+    {
+      "developer_id": 66,
+      "developer_name": "Virtual Forklift"
+    },
+    {
+      "developer_id": 67,
+      "developer_name": "Mindgames Media"
+    },
+    {
+      "developer_id": 68,
+      "developer_name": "Technical Laboratory Systems, Inc."
+    },
+    {
+      "developer_id": 69,
+      "developer_name": "Texas Mutual"
+    },
+    {
+      "developer_id": 70,
+      "developer_name": "Skillcatapp"
+    },
+    {
+      "developer_id": 71,
+      "developer_name": "Toyota"
+    },
+    {
+      "developer_id": 72,
+      "developer_name": "Skillveri"
+    },
+    {
+      "developer_id": 73,
+      "developer_name": "OSHA"
+    },
+    {
+      "developer_id": 74,
+      "developer_name": "Strata Tech"
+    },
+    {
+      "developer_id": 75,
+      "developer_name": "Tauris Tech"
+    },
+    {
+      "developer_id": 76,
+      "developer_name": "Technology and Maintenance Council"
+    },
+    {
+      "developer_id": 77,
+      "developer_name": "Texas Safety Solutions LLC"
+    },
+    {
+      "developer_id": 78,
+      "developer_name": "Peak Activity LLC"
+    },
+    {
+      "developer_id": 79,
+      "developer_name": "Thoughttec Simulation"
+    },
+    {
+      "developer_id": 80,
+      "developer_name": "Tradiebot"
+    },
+    {
+      "developer_id": 81,
+      "developer_name": "TRANSFR, Inc."
+    },
+    {
+      "developer_id": 82,
+      "developer_name": "Ulster University"
+    },
+    {
+      "developer_id": 83,
+      "developer_name": "SkillMill"
+    },
+    {
+      "developer_id": 84,
+      "developer_name": "Varwin"
+    },
+    {
+      "developer_id": 85,
+      "developer_name": "SQLearn"
+    },
+    {
+      "developer_id": 86,
+      "developer_name": "VR Direct"
+    },
+    {
+      "developer_id": 87,
+      "developer_name": "VR Inn"
+    },
+    {
+      "developer_id": 88,
+      "developer_name": "Fun2"
+    },
+    {
+      "developer_id": 89,
+      "developer_name": "Labtech"
+    },
+    {
+      "developer_id": 90,
+      "developer_name": "Shenzhen GTA Education Tech Ltd."
+    },
+    {
+      "developer_id": 91,
+      "developer_name": "VIVED"
+    }
+  ],
+  "typeElts": [
+    {
+      "elt_type_id": 1,
+      "elt_type_name": "VR headset (w/ controllers)"
+    },
+    {
+      "elt_type_id": 2,
+      "elt_type_name": "Smartphone +VR goggles"
+    },
+    {
+      "elt_type_id": 3,
+      "elt_type_name": "Simulator System"
+    },
+    {
+      "elt_type_id": 4,
+      "elt_type_name": "Tablet or Smartphone"
+    },
+    {
+      "elt_type_id": 5,
+      "elt_type_name": "Video Game Console"
+    },
+    {
+      "elt_type_id": 6,
+      "elt_type_name": "Desktop or Web Browser"
+    },
+    {
+      "elt_type_id": 7,
+      "elt_type_name": "Simulator System +VR"
+    },
+    {
+      "elt_type_id": 8,
+      "elt_type_name": "Desktop +Accessories/VR"
+    },
+    {
+      "elt_type_id": 9,
+      "elt_type_name": "3D Projection System"
+    },
+    {
+      "elt_type_id": 10,
+      "elt_type_name": "System +VR"
+    }
+  ],
+  "languages": [
+    {
+      "language_id": 1,
+      "language_name": "English"
+    },
+    {
+      "language_id": 2,
+      "language_name": "French"
+    },
+    {
+      "language_id": 3,
+      "language_name": "Spanish"
+    },
+    {
+      "language_id": 4,
+      "language_name": "Other"
+    },
+    {
+      "language_id": 5,
+      "language_name": "Dutch"
+    },
+    {
+      "language_id": 6,
+      "language_name": "German"
+    },
+    {
+      "language_id": 7,
+      "language_name": "Italian"
+    },
+    {
+      "language_id": 8,
+      "language_name": "Japanese"
+    },
+    {
+      "language_id": 9,
+      "language_name": "Korean"
+    },
+    {
+      "language_id": 10,
+      "language_name": "Portuguese"
+    },
+    {
+      "language_id": 11,
+      "language_name": "Russian"
+    },
+    {
+      "language_id": 12,
+      "language_name": "Simplified Chinese"
+    },
+    {
+      "language_id": 13,
+      "language_name": "Traditional Chinese"
+    },
+    {
+      "language_id": 14,
+      "language_name": "Turkish"
+    },
+    {
+      "language_id": 15,
+      "language_name": "Chinese"
+    },
+    {
+      "language_id": 16,
+      "language_name": "Arabic"
+    },
+    {
+      "language_id": 17,
+      "language_name": "Danish"
+    },
+    {
+      "language_id": 18,
+      "language_name": "Germany"
+    },
+    {
+      "language_id": 19,
+      "language_name": "Polish"
+    },
+    {
+      "language_id": 20,
+      "language_name": "Finnish"
+    },
+    {
+      "language_id": 21,
+      "language_name": "Czech"
+    },
+    {
+      "language_id": 22,
+      "language_name": "Greek"
+    },
+    {
+      "language_id": 23,
+      "language_name": "Hungarian"
+    },
+    {
+      "language_id": 24,
+      "language_name": "Bengali"
+    },
+    {
+      "language_id": 25,
+      "language_name": "Filipino"
+    },
+    {
+      "language_id": 26,
+      "language_name": "Hindi"
+    },
+    {
+      "language_id": 27,
+      "language_name": "Indonesian"
+    },
+    {
+      "language_id": 28,
+      "language_name": ""
+    }
+  ]
+}

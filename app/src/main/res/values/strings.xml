@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ELT</string>
+    <string name="logo">Logo</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="search_for_elts">Search for ELTs</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">Share App</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="acknowledgement">Acknowledgement</string>
+    <string name="industrial">Industrial</string>
+    <string name="select_a_category">Select a category</string>
+    <string name="paid">Paid</string>
+    <string name="free">Free</string>
+    <string name="all_elts">All ELTs</string>
+    <string name="category">Category</string>
+    <string name="type_elt">Type of ELTs</string>
+    <string name="developer">Developer</string>
+    <string name="country">Country</string>
+    <string name="language">Language</string>
+    <string name="topic_area">Topic Area</string>
+    <string name="filter">Filter</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="search_result">Search Results</string>
+    <string name="date_of_release">Date of Release</string>
+    <string name="certification">Certification</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="construction">Construction</string>
+    <string name="back_button">Back button</string>
+    <string name="product_detail">Product Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_found">No data found\t\t\t</string>
+    <string name="no_recent_search">No recent search history available!</string>
+</resources>
