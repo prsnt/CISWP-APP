@@ -2,21 +2,8 @@
 
 ## Screenshots
 <p float="left">
-  <img src="https://github.com/prsnt/CISWP-APP/raw/master/app/src/main/assets/dashboard.png" alt="Dashboard" width="300"/>
-  <img src="https://github.com/prsnt/CISWP-APP/raw/master/app/src/main/assets/listing.png" alt="Listing" width="300" />
+  <img src="https://github.com/prsnt/CISWP-APP/raw/master/app/src/main/assets/screenshot.png" alt="Dashboard" width="800"/>
 </p>
-    <hr style="height: 100px; margin: 0;">
-
-<p float="left">
-  <img src="https://github.com/prsnt/CISWP-APP/raw/master/app/src/main/assets/filter_fragment.png" alt="Dashboard" width="300"/>
-  <img src="https://github.com/prsnt/CISWP-APP/raw/master/app/src/main/assets/filter_inner.png" alt="Listing" width="300" />
-</p>
-<hr style="height: 100px; margin: 0;">
-<p float="left">
-  <img src="https://github.com/prsnt/CISWP-APP/raw/master/app/src/main/assets/search_result.png" alt="Dashboard" width="300"/>
-  <img src="https://github.com/prsnt/CISWP-APP/raw/master/app/src/main/assets/search_typing.png" alt="Listing" width="300" />
-</p>
-
 
 ## Table of Contents
 - [Description](#description)
