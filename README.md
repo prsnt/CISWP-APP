@@ -1,5 +1,12 @@
 # Android ELT App
 
+## Table of Contents
+- Screenshots
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+
 ## Sample Screenshots
 
 <p float="left">
@@ -11,15 +18,6 @@
 <p float="left">
   <img src="https://github.com/prsnt/CISWP-APP/assets/20899231/6a601725-f510-4985-ba65-8c98aa3ec6af" alt="Dashboard" width="900"/>
 </p>
-
-
-
-
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
 
 ## Description
 The Android ELT App is a versatile application built to seamlessly interact with the ELT-API, providing users with a rich platform to explore, search, and filter ELT (Education and Learning Technology) products. This app presents a comprehensive collection of ELT products sourced through the ELT-API, offering an intuitive and dynamic interface for users to explore educational technologies.
