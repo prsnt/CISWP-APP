@@ -1,9 +1,19 @@
 # Android ELT App
 
-## Screenshots
+## Sample Screenshots
+
 <p float="left">
-  <img src="https://github.com/prsnt/CISWP-APP/raw/master/app/src/main/assets/screenshot.png" alt="Dashboard" width="800"/>
+  <img src="https://github.com/prsnt/ELT-Admin-Panel/assets/20899231/86d549ed-1942-420e-9529-71956ebd6b20" alt="Dashboard" width="900"/>
 </p>
+<p float="left">
+  <img src="https://github.com/prsnt/CISWP-APP/assets/20899231/0e133be2-1735-497b-b3eb-6bc59f9925a9" alt="Dashboard" width="900"/>
+</p>
+<p float="left">
+  <img src="https://github.com/prsnt/CISWP-APP/assets/20899231/6a601725-f510-4985-ba65-8c98aa3ec6af" alt="Dashboard" width="900"/>
+</p>
+
+
+
 
 ## Table of Contents
 - [Description](#description)
